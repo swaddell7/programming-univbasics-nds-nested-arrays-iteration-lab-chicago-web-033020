@@ -39,8 +39,9 @@ def find_greater_pair(src)
     
     row_index += 1 
     
-    new_array
+  end 
   
+  new_array
   
 end 
 
